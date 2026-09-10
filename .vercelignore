@@ -1,0 +1,17 @@
+# Everything the live site needs is in assets/. The folders below are the
+# original source material, so keep them out of the public deployment.
+Banner Posters/
+Bottle Mockup/
+Logo/
+Model Poster/
+Product Description/
+Social Proof/
+Static Banner RHS (1)/
+ORDER Screenshot.png
+
+# Secrets: production values are set in the Vercel dashboard.
+.env
+.env.local
+.env.*.local
+
+node_modules

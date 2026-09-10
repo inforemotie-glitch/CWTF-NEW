@@ -1,0 +1,19 @@
+{
+  "name": "the-formulate-web",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The Formulate Rosemary Hair Serum landing page. Static HTML, CSS and vanilla JS with a Meta Conversions API route on Vercel.",
+  "keywords": [
+    "rosemary hair serum",
+    "the formulate",
+    "landing page",
+    "bangladesh",
+    "cash on delivery"
+  ],
+  "homepage": "https://www.theformulate.co/",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18"
+  }
+}
